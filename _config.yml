@@ -5,8 +5,8 @@ url: "http://fkanlab.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: FKAN Lab
-  avatar: avatar.png
+  title: Fluoride Knowledge and Action Network
+  avatar: fkan_logo.png
   gravatar: # Email MD5 hash
   description: "FKAN on Github" # used by search engines
 
